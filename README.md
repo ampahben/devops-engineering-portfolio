@@ -8,10 +8,10 @@ Practical implementations of:
 - 📊 **Observability** (Prometheus, Grafana)  
 
 ## Projects
-| Project          | Tech Stack       | Description                     |
+<!--| Project          | Tech Stack       | Description                     |
 |------------------|------------------|---------------------------------|
 | [AWS EKS Cluster](terraform/aws-eks) | Terraform, Helm | Production-ready Kubernetes cluster with autoscaling. |
-| [Azure Serverless CI/CD](azure/pipelines) | Azure DevOps, Docker | Zero-downtime deployments with canary testing. |
+| [Azure Serverless CI/CD](azure/pipelines) | Azure DevOps, Docker | Zero-downtime deployments with canary testing. |--->
 
 ## Usage
 ```bash
